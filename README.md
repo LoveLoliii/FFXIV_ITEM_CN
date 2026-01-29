@@ -1,4 +1,4 @@
-# FFXIV_ITEM_CN (7.4)
+# FFXIV_ITEM_CN (7.41)
 最终幻想14 物品中文
 
 - MySQL8
